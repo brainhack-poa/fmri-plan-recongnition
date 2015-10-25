@@ -4,8 +4,6 @@ Application of plan recognition to real-time fMRI.
 
 TODO.
 
-Testing change.
-
 ## fMRI Paradigms
 
 TODO.
@@ -35,4 +33,3 @@ TODO.
 
 ## Tools
 - [AFNI (Analysis of Functional NeuroImages)](http://afni.nimh.nih.gov/pub/dist/doc/program_help/Dimon.html)
-
